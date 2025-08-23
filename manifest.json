@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "SearchOut Home - Busca rápido y privado.",
+    "description": "Navega, explora y descubre con SearchOut desde tu página de inicio.",
+    "version": "1.61",
+    "author": "Bruno Rodríguez",
+    "action": {
+        "default_title": "SearchOut",
+        "default_icon" : "static/icons/icons64.png",
+        "default_popup" : "popup.html"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons": {
+        "64": "static/icons/icons64.png",
+        "32": "static/icons/icons32.png",
+        "16": "static/icons/icons16.png"
+    }
+}
