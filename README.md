@@ -89,7 +89,7 @@ SearchOut Home/
 
 ## 📸 Screenshots
 
-[image info](./screenshot.png)
+![image info](./screenshot.png)
 
 ## 🤝 Contributing
 
